@@ -1,0 +1,3 @@
+C:/Users/Indigo/Desktop/Act-14/cmake-build-debug/CMakeFiles/Act_14.dir
+C:/Users/Indigo/Desktop/Act-14/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Indigo/Desktop/Act-14/cmake-build-debug/CMakeFiles/rebuild_cache.dir
